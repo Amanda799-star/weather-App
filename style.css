@@ -1,8 +1,9 @@
 .container{
     background: linear-gradient(to right,blueviolet,purple);
-    width: 600px;
+    max-width: 600px;
+    max-height: 700px;
     display:block;
     margin: 0 auto;
-    
+
 
 }
